@@ -1,0 +1,18 @@
+"Bill of Material for "
+"On 9/06/2014 at 12:12:44 AM"
+
+"Comment","Pattern","Quantity","Components"
+
+"4.00MHz","CRYSTAL_HC49-US-SM","1","XT1","Resonator Ceramic 4.00 MHz 30ppm"
+"AA01B-S040VA1","AA01B-S040VA1","1","J1","AA01B-S040VA1, LAPTOP KEYBOARD RECEPTACLE"
+"approved sub OK","CAPC3216X180N","2","C6, C18","Capacitor SMD Cer 10uF 10% 16V X7R 1206"
+"B140-13-F","SMA","1","D1","B140-13-F, Schottky Diode"
+"BK1608HM121-T","BK1608HM121-T","1","L1","BK1608HM121, Multilayer Chip Bead Inductor"
+"BSS138N","INF-PG-SOT23_N","2","Q1, Q2","N-Channel SIPMOS Small-Signal-Transistor, 60 V VDS, 0.23 A ID, -55 to 150 degC, PG-SOT23, Reel, Green"
+"Cap Semi","1608[0603]","14","C1, C2, C3, C4, C5, C9, C10, C11, C12, C13, C14, C15, C16, C17","Capacitor (Semiconductor SIM Model)"
+"Header 6H","HDR1X6H","1","P1","Header, 6-Pin, Right Angle"
+"MSP430F5502IRGZR","RGZ48_5P15X5P15","1","U1","MSP430F5502, QFN, 48-pin"
+"Res3","J1-0603","11","R1, R2, R3, R4, R6, R8, R9, R10, R11, R12, R13","Resistor"
+"RT9164A LDO","SOT223","1","IC2","RT9164-33[P/G]G, 3.3V, LDO"
+"TL3301","TL3301","1","BSL","TL3301, tactile switch, gull wing termination"
+"USB_MINI_5P","USB_Mini-B_Molex_SMT","1","J2","Mini USB Connector"
